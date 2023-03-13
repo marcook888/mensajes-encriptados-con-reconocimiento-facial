@@ -1,10 +1,7 @@
-Integrantes 
 
-Marco Antonio Rojas Becerra
-Cristian Giraldo Amdador
 
--primero ejecutar el codigo con nombre de *new* (recordar cambiar la ruta de fotos y nombre)
+-primero ejecutar el código con nombre de *new* (recordar, cambiar la ruta de fotos y nombre)
 
--segundo ejecutar el codigo con nombre de entrenados 
+-segundo ejecutar el código con nombre de entrenados 
 
--tercero ejecutar el servidor y receptor al mismo tiempo (recordar cambiar la direccion ip y puerto si esta en uso)
+-tercero ejecutar el servidor y receptor al mismo tiempo (recordar, cambiar la dirección IP y puerto si está en uso)
